@@ -1,2 +1,2 @@
-# FaCe
+# HOCUS
 A transferability estimation method
